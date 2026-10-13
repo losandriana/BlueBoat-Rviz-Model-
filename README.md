@@ -38,7 +38,7 @@ git lfs install
 Clone the repository:
 
 ```bash
-git clone https://github.com/losandriana/blueboat_ws.git
+git clone https://github.com/losandriana/BlueBoat-Rviz-Model-.git
 cd blueboat_ws
 ```
 
@@ -56,16 +56,16 @@ git lfs pull
 
 ## 2. Source ROS 2
 
-Replace `<ros_distro>` with your installed ROS 2 distribution, such as `humble` or `jazzy`.
+Replace `<ros_distro>` with your installed ROS 2 distribution, such as `humble` or `jazzy` or `foxy`.
 
 ```bash
 source /opt/ros/<ros_distro>/setup.bash
 ```
 
-For example, if you use ROS 2 Humble:
+For example, if you use ROS 2 Foxy:
 
 ```bash
-source /opt/ros/humble/setup.bash
+source /opt/ros/foxy/setup.bash
 ```
 
 ## 3. Install dependencies
