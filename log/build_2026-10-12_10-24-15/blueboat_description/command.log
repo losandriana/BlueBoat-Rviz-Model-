@@ -1,0 +1,4 @@
+Invoking command in '/root/blueboat_ws/build/blueboat_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /root/blueboat_ws/build/blueboat_description -- -j4 -l4
+Invoked command in '/root/blueboat_ws/build/blueboat_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /root/blueboat_ws/build/blueboat_description -- -j4 -l4
+Invoking command in '/root/blueboat_ws/build/blueboat_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /root/blueboat_ws/build/blueboat_description
+Invoked command in '/root/blueboat_ws/build/blueboat_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /root/blueboat_ws/build/blueboat_description

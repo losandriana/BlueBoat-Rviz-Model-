@@ -1,0 +1,17 @@
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/meshes/blueboat.stl
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/urdf/blueboat.urdf
+/root/blueboat_ws/install/blueboat_description/share/ament_index/resource_index/package_run_dependencies/blueboat_description
+/root/blueboat_ws/install/blueboat_description/share/ament_index/resource_index/parent_prefix_path/blueboat_description
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/environment/ament_prefix_path.sh
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/environment/ament_prefix_path.dsv
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/environment/path.sh
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/environment/path.dsv
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/local_setup.bash
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/local_setup.sh
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/local_setup.zsh
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/local_setup.dsv
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/package.dsv
+/root/blueboat_ws/install/blueboat_description/share/ament_index/resource_index/packages/blueboat_description
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/cmake/blueboat_descriptionConfig.cmake
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/cmake/blueboat_descriptionConfig-version.cmake
+/root/blueboat_ws/install/blueboat_description/share/blueboat_description/package.xml

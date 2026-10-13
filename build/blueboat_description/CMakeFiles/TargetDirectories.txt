@@ -1,0 +1,9 @@
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/install/strip.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/install/local.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/install.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/list_install_components.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/rebuild_cache.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/edit_cache.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/test.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/blueboat_description_uninstall.dir
+/root/blueboat_ws/build/blueboat_description/CMakeFiles/uninstall.dir
