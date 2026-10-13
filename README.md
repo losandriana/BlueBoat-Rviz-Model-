@@ -1,4 +1,4 @@
-# BlueBoat ROS Workspace
+# BlueBoat RVIZ Model
 
 ROS workspace for the BlueBoat project, containing the packages and robot description files needed to work with the BlueBoat platform.
 
@@ -227,15 +227,6 @@ Then retry:
 ```bash
 colcon build --symlink-install
 ```
-
-## Contributing
-
-When making changes to the workspace:
-
-1. Modify the relevant packages under `src/`.
-2. Build the workspace and test your changes.
-3. Commit source code, configuration files, and required assets.
-4. Avoid committing generated `build/`, `install/`, or `log/` directories.
 
 ## License
 
